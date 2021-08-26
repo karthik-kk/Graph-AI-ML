@@ -1,2 +1,2 @@
 # Graph-AI-ML
-All things related to Graphs
+All things related to Graphs.
